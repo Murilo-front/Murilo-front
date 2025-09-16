@@ -4,9 +4,9 @@
 
 <br>
 
-| 🎓 Desenvolvimento Web                     | 💼 Auxiliar Administrativo |
-| ------------------------------------------ | -------------------------- |
-| <ul> <li>📌 Anhanguera <li>📘 Em andamento | 🎯 Transição de carreira   |
+| 🎓 Formação          | 💼 Experiencia         |
+| --------------------- | --------------------- |
+|📌 Desenvolviment WEB - Anhanguera <br>📘 Em andamento | <br>🗃️ Auxiliar administrátivo <br> 🎯 Transição de carreira   |
 
 ## 💻 Tecnologias
 
@@ -15,7 +15,10 @@
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
 <img align="center" alt="normalizer.css" src="https://img.shields.io/badge/Normalize.css-E3695F.svg?style=for-the-badge&logo=normalizedotcss&logoColor=white">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 </div><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo-front&show_icons=true&theme=merko)
