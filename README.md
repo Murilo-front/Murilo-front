@@ -4,9 +4,9 @@
 
 <br>
 
-| 🎓 Formação          | 💼 Experiencia         |
+| 🎓 Formação          | 💼 Experiência         |
 | --------------------- | --------------------- |
-|📌 Desenvolviment WEB - Anhanguera <br>📘 Em andamento | 🗃️ Auxiliar administrátivo <br> 🎯 Transição de carreira   |
+|📌 Desenvolviment WEB - Anhanguera <br>📘 Em andamento | 🗃️ Auxiliar administrátivo <br> 🎯 Desenvolvedor Junior   |
 
 ## 💻 Tecnologias
 
