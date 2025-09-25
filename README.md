@@ -6,7 +6,7 @@
 
 | 🎓 Formação          | 💼 Experiência         |
 | --------------------- | --------------------- |
-|📌 Desenvolviment WEB - Anhanguera <br>📘 Em andamento | 🗃️ Auxiliar administrátivo <br> 🎯 Desenvolvedor Junior   |
+|📌 Desenvolvimento WEB - Anhanguera <br>📘 Em andamento | 🗃️ Auxiliar administrátivo <br> 🎯 Desenvolvedor Junior   |
 
 ## 💻 Tecnologias
 
